@@ -9,4 +9,6 @@ This script navigates to www.wikipedia.com and pulls only the pertinent info fro
 - beautifulsoup module
 
 ### Further development
-I'd like to automate running this script every morning.
+#### v2
+ - added support for the table on the right-hand side of most pages that shows important info
+ - added support for nested list elements
