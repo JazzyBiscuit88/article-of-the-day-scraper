@@ -8,7 +8,10 @@ This script navigates to www.wikipedia.com and pulls only the pertinent info fro
 - requests module
 - beautifulsoup module
 
-### Further development
-#### v2
+## Further development
+#### v1.2
  - added support for the table on the right-hand side of most pages that shows important info
  - added support for nested list elements
+
+#### v1.3
+ - added current url for more info
